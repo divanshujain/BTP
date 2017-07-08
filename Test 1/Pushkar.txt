@@ -1,0 +1,28 @@
+Age : 20
+Gender : M
+Medical Conditions : no
+Musical Training : none
+Family BG : N
+0
+Wrong Correct:Up Inputted:Down
+Correct
+Correct
+Wrong Correct:Up Inputted:Same
+1
+Correct
+Correct
+Correct
+Wrong Correct:Same Inputted:Down
+Correct
+2
+Wrong Correct:Up Inputted:Same
+Correct
+Correct
+Correct
+Wrong Correct:Down Inputted:Up
+3
+Wrong Correct:Up Inputted:Same
+Wrong Correct:Up Inputted:Same
+Wrong Correct:Down Inputted:Same
+Wrong Correct:Down Inputted:Same
+Wrong Correct:Same Inputted:Up

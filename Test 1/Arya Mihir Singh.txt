@@ -1,0 +1,28 @@
+Age : 21
+Gender : M
+Medical Conditions : No
+Musical Training : Mod
+Family BG : Y
+0
+Correct
+Correct
+Correct
+Correct
+1
+Correct
+Correct
+Correct
+Correct
+Correct
+2
+Correct
+Correct
+Correct
+Correct
+Correct
+3
+Correct
+Correct
+Correct
+Correct
+Correct
